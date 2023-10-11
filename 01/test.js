@@ -1,4 +1,6 @@
-// console.log("Hi janak");
+
+
+console.log("Hi janak");
 
 const accountId = 44;
 let accountEmail = "janak@gmail.com";
