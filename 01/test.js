@@ -2,7 +2,7 @@ console.log("Hi janak");
 const accountId = 44;
 let accountEmail = "janak@gmail.com";
 var accounPassword = "password@123";
-accountCity = "Mumbai";
+let accountCity = "Mumbai";
 accountEmail = "hulahul.com"
 let accountstate  = "maharashtra";
 // console.log(accountId);
